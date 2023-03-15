@@ -24,8 +24,8 @@
             <thead class="bg-secondary text-white">
                 <tr>
                     <th>ID</th>
-                    <th></th>
-                    <th></th>
+                    <th>Usuario</th>
+                    <th>Fornecedor</th>
                     <th>Nota Fiscal</th>
                     <th>Data Emissao</th>
                     <th>Valor</th>
